@@ -1,6 +1,6 @@
 # 🧠 Escape: The AI Lockdown
 
-Welcome to the **IT140-PythonGameProject** This is a text-based adventure game created as part of my University's IT-140 course project.
+Welcome to this text-based adventure game created as part of my University's course project.
 
 In this game, you play as a technician trapped in a high-tech manufacturing facility during a factory lockdown. A rogue AI has taken over. You must navigate through rooms, collect six essential tools, and avoid the AI core to shut down the system and escape
 
@@ -10,7 +10,7 @@ In this game, you play as a technician trapped in a high-tech manufacturing faci
 
 **Title**: *Escape: The AI Lockdown*  
 **Genre**: Text-Based Adventure (Python)  
-**Course**: IT-140: Introduction to Scripting  
+**Course**: Introduction to Scripting (Python) 
 
 ### 🧩 Objective
 
