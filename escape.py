@@ -2,6 +2,7 @@
 
 # This is a simple text-based escape game where the player navigates through rooms in a factory
 # to find their way out. The player can move in four directions: North, South, East, and West.
+# N = Go North     S = Go South     E = Go East     W = Go West
 # The game will start in the Break Room, and the player can exit the game by typing 'exit'.
 
 
